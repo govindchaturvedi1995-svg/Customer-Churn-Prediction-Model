@@ -106,11 +106,6 @@ https://your-app-name.streamlit.app
     - [Required Libraries](#required-libraries)
 - [🚀 Future Improvements](#-future-improvements)
 - [📚 Learning Outcomes](#-learning-outcomes)
-- [👨‍💻 Author](#-author)
-  - [Shivansh Srivastava](#shivansh-srivastava)
-    - [📧 Email](#-email)
-    - [💻 GitHub](#-github)
-    - [🔗 LinkedIn](#-linkedin)
 - [📜 License](#-license)
 - [🙏 Acknowledgements](#-acknowledgements)
 - [⭐ Support](#-support)
@@ -544,7 +539,7 @@ These files are automatically loaded by the Streamlit application, eliminating t
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/SHIVANSH3SRIVASTAVA/Customer-Churn-Prediction-System.git
+git clone https://github.com/govindchaturvedi1995-svg/Customer-Churn-Prediction-Model
 ```
 
 ---
@@ -756,34 +751,6 @@ This project demonstrates practical implementation of:
 - Model Serialization
 - Machine Learning Deployment
 - Streamlit Application Development
-
----
-
-# 👨‍💻 Author
-
-## Shivansh Srivastava
-
-B.Tech Computer Science Engineering (2027)
-
-Aspiring Software Engineer passionate about Machine Learning, Artificial Intelligence, Data Science, Python Development, and Full-Stack Development.
-
-### 📧 Email
-
-```
-shivanshsrivastavaworks@gmail.com
-```
-
-### 💻 GitHub
-
-```
-https://github.com/SHIVANSH3SRIVASTAVA
-```
-
-### 🔗 LinkedIn
-
-```
-https://www.linkedin.com/in/shivansh3srivastava
-```
 
 ---
 
